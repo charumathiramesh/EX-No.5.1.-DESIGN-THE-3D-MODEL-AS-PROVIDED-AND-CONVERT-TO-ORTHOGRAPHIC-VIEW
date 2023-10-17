@@ -39,7 +39,7 @@ Switch to drawing mode from design mode
 
 
 
-![Screenshot (171)](https://github.com/charumathiramesh/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/120204455/da8f655f-c33e-468e-9118-20cf7fb2a266)
+![Screenshot (170)](https://github.com/charumathiramesh/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/120204455/984644db-34da-4c8a-8a6e-b505468e3fd2)
 
 
 
